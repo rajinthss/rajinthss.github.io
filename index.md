@@ -10,8 +10,10 @@ I am a recent mechanical engineering graduate of the University of Peradeniya, S
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-![](/assets/img/logo.png)
-<img src="assets/img/logo.png" width="100">
+<img src="assets/img/uoplogo.png" width="150">
+
+
+<img src="assets/img/tcklogo.png" width="150">
 
 ## Header 2
 

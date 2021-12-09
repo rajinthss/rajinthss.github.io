@@ -4,7 +4,9 @@ layout: default
 
 # About Me
 
-Hello there! I am a recent mechanical engineering graduate of the University of Peradeniya, Sri Lanka. Currently I am working as a temporary instructor at my alma mater with an aim of pursuing higher studies. My research interests span fluid dynamics, control systems and artificial intelligence.
+Hello there! I am a recent mechanical engineering graduate of the University of Peradeniya, Sri Lanka. Currently I am working as a temporary instructor at my alma mater with the aim of pursuing higher studies. My research interests span fluid dynamics, control systems and artificial intelligence, and more overlap the better. I am keen on being involved in research which not only are novel, but also have significant real world impact.
+
+Scroll down to take a look at my background. 
 
 # Education
 

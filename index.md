@@ -6,7 +6,7 @@ layout: default
 
 Hello there! I am a recent mechanical engineering graduate of the University of Peradeniya, Sri Lanka. Currently I am working as a temporary instructor at my alma mater with the aim of pursuing higher studies. My research interests span fluid dynamics, control systems and artificial intelligence, and more overlap the better. I am keen on being involved in research which not only are novel, but also have significant real world impact.
 
-Scroll down to take a look at my background. 
+Scroll down to take a look at my background.
 
 # Education
 
@@ -16,6 +16,10 @@ Scroll down to take a look at my background.
 |:---:|:-------------------------|
 |<img src="assets/img/tcklogo.png" height="110">  | **Trinity College Kandy** <br/> GCE Advanced Level Examintation - August 2015 <br/> Physical Science Stream <br/> Distric Rank: 9 (Kandy)|
 
+<table>
+      <tr><td>Row 1 Cell 1</td><td>Row 1 Cell 2</td></tr>
+      <tr><td>Row 2 Cell 1</td><td>Row 2 Cell 2</td></tr>
+</table>
 
 ## Header 2
 

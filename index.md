@@ -10,6 +10,7 @@ I am a recent mechanical engineering graduate of the University of Peradeniya, S
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
+|   |   |
 |---|---|
 |<img src="assets/img/uoplogo.png" width="100">| Faculty of Engineering, University of Peradeniya <br/> BSc. Engineering (Hons) <br/> Mechanical Engineering <br/> GPA: 3.9/4.0|
 |:---:|:-------------------------|

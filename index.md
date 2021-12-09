@@ -15,9 +15,10 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 <img src="assets/img/tcklogo.png" height="120">
 
-![](assets/img/tcklogo.png)| blah blah 1
+<img src="assets/img/uoplogo.png" width="100">| blah blah 1
+|bllllllaaaa
 :-------------------------:|:-------------------------:
-![](assets/img/tcklogo.png)  | blah blah 2
+<img src="assets/img/tcklogo.png" height="120">  | blah blah 2
 
 
 ## Header 2

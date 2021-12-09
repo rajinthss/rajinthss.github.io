@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Introduction
+# About Me
 
 I am a recent graduate in mechanical engineering from the University of Peradeniya, with an aim of pursuing higher studies. My research interests lie mainly in fluid dynamics, control systems and artificial intelligence.
 

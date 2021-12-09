@@ -10,9 +10,9 @@ I am a recent mechanical engineering graduate of the University of Peradeniya, S
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-<img src="assets/img/uoplogo.png" width="100">| blah blah 1 <br/> blah2 <br/> blah3
+<img src="assets/img/uoplogo.png" width="100">| Faculty of Engineering, University of Peradeniya <br/> BSc. Engineering (Hons) <br/> Mechanical Engineering <br/> GPA = 3.9/4.0
 :---:|:-------------------------
-<img src="assets/img/tcklogo.png" height="120">  | blah blah 2
+<img src="assets/img/tcklogo.png" height="110">  | Trinity College Kandy <br/> GCE Advanced Level Examintation (2015) <br/> 
 
 
 ## Header 2

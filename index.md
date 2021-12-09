@@ -10,9 +10,9 @@ Hello there! I am a recent mechanical engineering graduate of the University of 
 
 |   |   |
 |:---:|---|
-|<img src="assets/img/uoplogo.png" width="100">| **Faculty of Engineering, University of Peradeniya** <br/> BSc. Engineering (Hons) - Oct. 2021<br/> Mechanical Engineering <br/> GPA: 3.9/4.0|
+|<img src="assets/img/uoplogo.png" width="100">| **Faculty of Engineering, University of Peradeniya** <br/> BSc. Engineering (Hons) - October 2021<br/> Mechanical Engineering <br/> GPA: 3.9/4.0|
 |:---:|:-------------------------|
-|<img src="assets/img/tcklogo.png" height="110">  | **Trinity College Kandy** <br/> GCE Advanced Level Examintation - 2015 <br/> Physical Science Stream <br/> Distric Rank: 9 (Kandy)|
+|<img src="assets/img/tcklogo.png" height="110">  | **Trinity College Kandy** <br/> GCE Advanced Level Examintation - August 2015 <br/> Physical Science Stream <br/> Distric Rank: 9 (Kandy)|
 
 
 ## Header 2

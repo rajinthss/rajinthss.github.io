@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# Introduction
+
+I am a recent graduate in mechanical engineering from the University of Peradeniya, with an aim of pursuing higher studies. My research interests lie mainly in fluid dynamics, control systems and artificial intelligence.
+
 # Education
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.

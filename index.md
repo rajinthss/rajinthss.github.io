@@ -11,14 +11,9 @@ Scroll down to take a look at my background.
 # Education
 
 
-|<img src="assets/img/uoplogo.png" width="100">| <span style="font-weight:normal">**Faculty of Engineering, University of Peradeniya** <br/> BSc. Engineering (Hons) - October 2021<br/> Mechanical Engineering <br/> GPA: 3.9/4.</span>|
+|<img src="assets/img/uoplogo.png" width="100">| <span style="font-weight:normal">**Faculty of Engineering, University of Peradeniya** <br/> BSc. Engineering (Hons) - October 2021<br/> Mechanical Engineering <br/> GPA: 3.9/4.0</span>|
 |:---:|:-------------------------|
 |<img src="assets/img/tcklogo.png" height="110">  | **Trinity College Kandy** <br/> GCE Advanced Level Examintation - August 2015 <br/> Physical Science Stream <br/> Distric Rank: 9 (Kandy)|
-
-<table>
-      <tr><td><img src="assets/img/uoplogo.png" width="100"></td><td> **Faculty of Engineering, University of Peradeniya** <br/> BSc. Engineering (Hons) - October 2021<br/> Mechanical Engineering <br/> GPA: 3.9/4.0</td></tr>
-      <tr><td><img src="assets/img/tcklogo.png" height="110"> </td><td>**Trinity College Kandy** <br/> GCE Advanced Level Examintation - August 2015 <br/> Physical Science Stream <br/> Distric Rank: 9 (Kandy)</td></tr>
-</table>
 
 ## Header 2
 

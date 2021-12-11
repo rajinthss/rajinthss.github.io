@@ -10,6 +10,7 @@ Completed the Bachelor of Science in Engineering (Hons) degree specializing in M
 
 ### Awards and Honours
 
+*   Nominated for The Migara Ratnatunga Trust Awards for Best Undergraduate Industrial Training - Organized by the Institution of Engineers Sri Lanka (IESL) - _2016_
 *   Dr. Tilak Peiris Award for the best performance in the General Programme of Engineering - Awarded by the Peradeniya Engineering Faculty Alumni Association (PEFAA) - _2017_
 *   Scholarship for Best Individual Performance at the First Examination, Faculty of Engineering - Awarded by the Peradeniya University Alumni Association of New South Wales (PUAAN) - _2017_
 *   Mahapola Merit Scholarship for exceptional performance at the G.C.E Advanced Level Examination - Awarded by the University Grants Commission of Sri Lanka - _2016_

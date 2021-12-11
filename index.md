@@ -24,7 +24,7 @@ Scroll down to take a look at my background.
 |:---:|:-------------------------|
 |<img src="assets/img/uoplogo.png" width="90">| <span style="font-weight:normal">**Faculty of Engineering, University of Peradeniya** <br/> Temporary Instructor <br/> Department of Mechanical Engineering <br/> _October 2021 to Present_|
 |:---:|:-------------------------|
-|<img src="assets/img/ltl_logo.jpg" width="90">| <span style="font-weight:normal">**LTL Holdings (Pvt.) Ltd.** <br/> Engineering Intern <br/> Yugadanavi Combined Cycle Power Plant <br/> _November 2019 to February 2020_|
+|<img src="assets/img/ltl_logo.jpg" width="100">| <span style="font-weight:normal">**LTL Holdings (Pvt.) Ltd.** <br/> Engineering Intern <br/> Yugadanavi Combined Cycle Power Plant <br/> _November 2019 to February 2020_|
 |:---:|:-------------------------|
 |<img src="assets/img/dockyard_logo.jpg" height="100">  | **Colombo Dockyard PLC** <br/> Engineering Intern <br/> CDPLC Training Division <br/> _February 2019 to May 2019_|
 

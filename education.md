@@ -32,9 +32,9 @@ Z Score - 2.453  <br/>
 
 <a href="docs/Dockyard_Certificate.pdf" target="_blank">PDF.</a>
 
-% <a href="docs/Dockyard_Certificate.pdf" class="image fit"><img src="assets/img/ltl_logo.jpg" alt=""></a>
+<!-- <a href="docs/Dockyard_Certificate.pdf" class="image fit"><img src="assets/img/ltl_logo.jpg" alt=""></a> -->
 
-<embed src="https://rajinthss.github.io/docs/Dockyard_Certificate.pdf" type="application/pdf" />
+<embed src="https://rajinthss.github.io/docs/Dockyard_Certificate.pdf" type="application/pdf" width="100%" height="850px"/>
 
 [View Training Certificate >>](./docs/Dockyard_Certificate.pdf).
 

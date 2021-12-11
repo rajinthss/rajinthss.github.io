@@ -24,9 +24,9 @@ Completed the G.C.E Advanced Level Examination in the Physical Science stream wi
 | Physics  | A |
 | Chemistry  | A |
 
-District Rank - 9
-Country Rank - 143
-Z Score - 2.453
+District Rank - 9 </br>
+Country Rank - 143  </br>
+Z Score - 2.453  </br>
 
 ### Awards and Honours
 

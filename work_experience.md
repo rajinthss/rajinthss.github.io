@@ -14,6 +14,8 @@ Completed a 10-week engineering internship at the Yugadanavi 300MW Combined Cycl
 *   Assisted in troubleshooting equipment failures and developed P&IDs for maintenance requirements.
 *   Carried out heat load calculations and estimations for modification purposes.
 
+[View Training Certificate >>](./docs/Dockyard_Certificate.pdf).
+
 ## Colombo Dockyard PLC
 
 Completed a 10-week engineering internship at the Colombo Dockyard, which is the largest and oldest shipbuilding company in Sri Lanka.

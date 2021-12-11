@@ -30,13 +30,13 @@ District Rank - 9 <br/>
 Country Rank - 143  <br/>
 Z Score - 2.453  <br/>
 
-<a href="docs/Dockyard_Certificate.pdf" target="_blank">PDF.</a>
+<!-- <a href="docs/Dockyard_Certificate.pdf" target="_blank">PDF.</a> -->
 
 <!-- <a href="docs/Dockyard_Certificate.pdf" class="image fit"><img src="assets/img/ltl_logo.jpg" alt=""></a> -->
 
-<embed src="https://rajinthss.github.io/docs/Dockyard_Certificate.pdf" type="application/pdf" width="100%" height="850px"/>
+<!-- <embed src="https://rajinthss.github.io/docs/Dockyard_Certificate.pdf" type="application/pdf" width="100%" height="850px"/> -->
 
-[View Training Certificate >>](./docs/Dockyard_Certificate.pdf).
+
 
 
 https://docs.google.com/viewer?url=https://drive.google.com/file/d/1nY8tLiqciS3rqbdKoQy9h8330Bv6hLX6/view?usp=sharing

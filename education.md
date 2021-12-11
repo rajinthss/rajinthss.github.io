@@ -32,6 +32,12 @@ Z Score - 2.453  <br/>
 
 <a href="rajinthss.github.io/docs/Dockyard_Certificate.pdf" target="_blank">PDF.</a>
 
+<a href="docs/Dockyard_Certificate.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
+<a href="docs/Dockyard_Certificate.pdf" class="image fit"><img src="assets/img/ltl_logo.jpg" alt=""></a>
+
+
+
 ### Awards and Honours
 
 *   Award for Outstanding Performance at the G.C.E Advanced Level Examination	- Awarded by Trinity College, Kandy - _2016_

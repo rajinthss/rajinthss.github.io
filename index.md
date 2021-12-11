@@ -22,7 +22,7 @@ Scroll down to take a look at my background.
 
 | | |
 |:---:|:-------------------------|
-|<img src="assets/img/uoplogo.png" height="100">  | **Trinity College Kandy** <br/> G.C.E Advanced Level Examination - August 2015 <br/> Physical Science Stream <br/> District Rank: 9 (Kandy)|
+|<img src="assets/img/uoplogo.png" width="90">| <span style="font-weight:normal">**Faculty of Engineering, University of Peradeniya** <br/> Temporary Instructor <br/> Preparing and conducting laboratory sessions for undergraduates, grading of assignments, coordinating administrative activities within the department. <br/> Aiding in the delivery of GP114-Engineering Drawing, ME222-Design of Machine Elements, ME515-Mechatronics modules.|
 |:---:|:-------------------------|
 |<img src="assets/img/ltl_logo.jpg" width="90">| <span style="font-weight:normal">**Faculty of Engineering, University of Peradeniya** <br/> BSc. Engineering (Hons) - October 2021<br/> Mechanical Engineering <br/> CGPA: 3.9/4.0</span>|
 |:---:|:-------------------------|

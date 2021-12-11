@@ -25,9 +25,7 @@ Completed a 10-week engineering internship at the Colombo Dockyard, which is the
 *   Performed non-destructive tests and inspections for quality control purposes.
 *   Understood the importance of industrial safety and proper work ethic.
 
-[View Training Certificate >>](./docs/Dockyard_Certificate.pdf).
-
-<a href="docs/Dockyard_Certificate.pdf" target="_blank">View Training Certificate >> .</a> 
+<a href="docs/Dockyard_Certificate.pdf" target="_blank">View Training Certificate >></a> 
 
 Completed the G.C.E Advanced Level Examination in the Physical Science stream and gained entrance to the Faculty of Engineering, University of Peradeniya.
 

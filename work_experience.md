@@ -30,7 +30,7 @@ Completed a 10-week engineering internship at the Colombo Dockyard, which is the
 
 <br/>
 
-<embed src="https://rajinthss.github.io/docs/PPT.pdf" type="application/pdf" width="100%" height="500px"/>
+<embed src="https://rajinthss.github.io/docs/PPT.pdf" type="application/pdf" width="100%" height="520px"/>
 
 <br/>
 

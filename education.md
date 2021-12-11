@@ -30,7 +30,7 @@ District Rank - 9 <br/>
 Country Rank - 143  <br/>
 Z Score - 2.453  <br/>
 
-<a href="docs/AL_Certificate.pdf" target="_blank">View Training Certificate >></a> 
+<a href="docs/AL_Certificate.pdf" target="_blank">View Certificate >></a> 
 
 <!-- <a href="docs/Dockyard_Certificate.pdf" target="_blank">PDF.</a> -->
 

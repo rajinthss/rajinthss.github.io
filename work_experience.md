@@ -14,7 +14,7 @@ Completed a 10-week engineering internship at the Yugadanavi 300MW Combined Cycl
 *   Assisted in troubleshooting equipment failures and developed P&IDs for maintenance requirements.
 *   Carried out heat load calculations and estimations for modification purposes.
 
-<a href="docs/Dockyard_Certificate.pdf" target="_blank">View Training Certificate >></a> 
+<a href="docs/Dockyard_Certificate.pdf" target="_blank">View Training Certificate >></a>
 
 ## Colombo Dockyard PLC
 
@@ -28,23 +28,11 @@ Completed a 10-week engineering internship at the Colombo Dockyard, which is the
 
 <a href="docs/Dockyard_Certificate.pdf" target="_blank">View Training Certificate >></a>
 
-Completed the G.C.E Advanced Level Examination in the Physical Science stream and gained entrance to the Faculty of Engineering, University of Peradeniya.
+<br/> <br/>
 
-| <span style="display: inline-block; width:50px">Subject</span>  | <span style="display: inline-block; width:50px">Result</span>  |
-| --- | --- |
-| Combined Mathematics  | A  |
-| Physics  | A |
-| Chemistry  | A |
+Completed a 10-week engineering internship at the Colombo Dockyard, which is the largest and oldest shipbuilding company in Sri Lanka.
 
-District Rank - 9 <br/>
-Country Rank - 143  <br/>
-Z Score - 2.453  <br/>
-
-### Awards and Honours
-
-*   Award for Outstanding Performance at the G.C.E Advanced Level Examination	- Awarded by Trinity College, Kandy - _2016_
-
-
+<embed src="https://rajinthss.github.io/docs/PPT.pdf" type="application/pdf" width="100%" height="500px"/>
 
 
 [Back to Homepage](./)

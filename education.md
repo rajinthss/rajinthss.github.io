@@ -1,11 +1,6 @@
 ---
+layout: newpage
 ---
-
-@import "{{ site.theme }}";
-
-header {
-  display: none;
-}
 
 # Education
 

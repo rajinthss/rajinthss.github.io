@@ -2,19 +2,27 @@
 layout: newpage
 ---
 
-# Education
+# Work Experience
 
-## University of Peradeniya
+## LTL Holdings (Pvt) Ltd.
 
-Completed the Bachelor of Science in Engineering (Hons) degree specializing in Mechanical Engineering. Obtained First Class Honours while securing a cumulative GPA of 3.9/4.0.
+Completed a 10-week engineering internship at the Yugadanavi 300MW Combined Cycle Power Plant located in Kerawalapitiya. This is a 2x2x1 configured power plant with 2 Gas Turbines, 2 Heat Recovery Steam Generators and 1 Steam Turbine.  
 
-### Awards and Honours
+### Experience Gained
 
-*   Dr. Tilak Peiris Award for the best performance in the General Programme of Engineering - Awarded by the Peradeniya Engineering Faculty Alumni Association (PEFAA) - _2017_
-*   Scholarship for Best Individual Performance at the First Examination, Faculty of Engineering - Awarded by the Peradeniya University Alumni Association of New South Wales (PUAAN) - _2017_
-*   Mahapola Merit Scholarship for exceptional performance at the G.C.E Advanced Level Examination - Awarded by the University Grants Commission of Sri Lanka - _2016_
+*   Gained thorough knowledge on the operation of a large scale thermal power plant.
+*   Assisted in troubleshooting equipment failures and developed P&IDs for maintenance requirements.
+*   Carried out heat load calculations and estimations for modification purposes.
 
-## Trinity College Kandy
+## Colombo Dockyard PLC
+
+Completed a 10-week engineering internship at the Colombo Dockyard, which is the largest and oldest shipbuilding company in Sri Lanka.
+
+### Experience Gained
+
+*   Gained substantial hands on experience in machining, metal processing, fabrication and maintenance of engineering equipment.
+*   Performed non-destructive tests and inspections for quality control purposes.
+*   Understood the importance of industrial safety and proper work ethic.
 
 Completed the G.C.E Advanced Level Examination in the Physical Science stream and gained entrance to the Faculty of Engineering, University of Peradeniya.
 

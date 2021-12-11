@@ -30,6 +30,8 @@ District Rank - 9 <br/>
 Country Rank - 143  <br/>
 Z Score - 2.453  <br/>
 
+<a href="rajinthss.github.io/docs/Dockyard_Certificate.pdf" target="_blank">PDF.</a>
+
 ### Awards and Honours
 
 *   Award for Outstanding Performance at the G.C.E Advanced Level Examination	- Awarded by Trinity College, Kandy - _2016_

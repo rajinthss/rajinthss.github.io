@@ -36,10 +36,7 @@ Z Score - 2.453  <br/>
 
 <!-- <embed src="https://rajinthss.github.io/docs/Dockyard_Certificate.pdf" type="application/pdf" width="100%" height="850px"/> -->
 
-
-
-
-https://docs.google.com/viewer?url=https://drive.google.com/file/d/1nY8tLiqciS3rqbdKoQy9h8330Bv6hLX6/view?usp=sharing
+<!-- https://docs.google.com/viewer?url=https://drive.google.com/file/d/1nY8tLiqciS3rqbdKoQy9h8330Bv6hLX6/view?usp=sharing -->
 
 
 

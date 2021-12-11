@@ -14,7 +14,6 @@ Completed a 10-week engineering internship at the Yugadanavi 300MW Combined Cycl
 *   Assisted in troubleshooting equipment failures and developed P&IDs for maintenance requirements.
 *   Carried out heat load calculations and estimations for modification purposes.
 
-[View Training Certificate >>](./docs/Dockyard_Certificate.pdf).
 
 ## Colombo Dockyard PLC
 
@@ -25,6 +24,10 @@ Completed a 10-week engineering internship at the Colombo Dockyard, which is the
 *   Gained substantial hands on experience in machining, metal processing, fabrication and maintenance of engineering equipment.
 *   Performed non-destructive tests and inspections for quality control purposes.
 *   Understood the importance of industrial safety and proper work ethic.
+
+[View Training Certificate >>](./docs/Dockyard_Certificate.pdf).
+
+<a href="docs/Dockyard_Certificate.pdf" target="_blank">View Training Certificate >> .</a> 
 
 Completed the G.C.E Advanced Level Examination in the Physical Science stream and gained entrance to the Faculty of Engineering, University of Peradeniya.
 

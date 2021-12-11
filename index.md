@@ -22,7 +22,7 @@ Scroll down to take a look at my background.
 
 | | |
 |:---:|:-------------------------|
-|<img src="assets/img/uoplogo.png" width="90">| <span style="font-weight:normal">**Faculty of Engineering, University of Peradeniya** <br/> Temporary Instructor <br/> Department of Mechanical Engineering <br/> |
+|<img src="assets/img/uoplogo.png" width="90">| <span style="font-weight:normal">**Faculty of Engineering, University of Peradeniya** <br/> Temporary Instructor <br/> Department of Mechanical Engineering <br/> _Oct. 2021 to Present_|
 |:---:|:-------------------------|
 |<img src="assets/img/ltl_logo.jpg" width="90">| <span style="font-weight:normal">**Faculty of Engineering, University of Peradeniya** <br/> BSc. Engineering (Hons) - October 2021<br/> Mechanical Engineering <br/> CGPA: 3.9/4.0</span>|
 |:---:|:-------------------------|

@@ -18,7 +18,7 @@ Completed the Bachelor of Science in Engineering (Hons) degree specializing in M
 
 Completed the G.C.E Advanced Level Examination in the Physical Science stream with an Z Score of 2.453 and gained entrance to the Faculty of Engineering, University of Peradeniya.
 
-| <div style="width:200px">Subject</div>  | Grade |
+| <span style="display: inline-block; width:500px">text</span>  | Grade |
 | --- | --- |
 | Combined Mathematics  | A  |
 | Physics  | A |

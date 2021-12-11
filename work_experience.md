@@ -28,11 +28,10 @@ Completed a 10-week engineering internship at the Colombo Dockyard, which is the
 
 <a href="docs/Dockyard_Certificate.pdf" target="_blank">View Training Certificate >></a>
 
-<br/> <br/>
-
-Completed a 10-week engineering internship at the Colombo Dockyard, which is the largest and oldest shipbuilding company in Sri Lanka.
+<br/>
 
 <embed src="https://rajinthss.github.io/docs/PPT.pdf" type="application/pdf" width="100%" height="500px"/>
 
+<br/>
 
 [Back to Homepage](./)

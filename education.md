@@ -6,7 +6,7 @@ layout: newpage
 
 ## University of Peradeniya
 
-Completed the Bachelor of Science in Engineering (Hons) degree with First Class Honours while securing a cumulative GPA of 3.9/4.0.
+Completed the Bachelor of Science in Engineering (Hons) degree specializing in Mechanical Engineering. Obtained First Class Honours while securing a cumulative GPA of 3.9/4.0.
 
 ### Awards and Honours
 
@@ -19,7 +19,7 @@ Completed the Bachelor of Science in Engineering (Hons) degree with First Class 
 Completed the G.C.E Advanced Level Examination in the Physical Science stream with an Z Score of 2.453 and gained entrance to the Faculty of Engineering, University of Peradeniya.
 
 | Subject  | Grade |
-| ------------- | ------------- |
+| --- | --- |
 | Combined Mathematics  | A  |
 | Physics  | A |
 | Chemistry  | A |

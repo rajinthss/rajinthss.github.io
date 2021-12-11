@@ -16,10 +16,22 @@ Completed the Bachelor of Science in Engineering (Hons) degree with First Class 
 
 ## Trinity College Kandy
 
-Completed the G.C.E Advanced Level Examination in the Physical Science stream and gained entrance to the Faculty of Engineering. 
+Completed the G.C.E Advanced Level Examination in the Physical Science stream with an Z Score of 2.453 and gained entrance to the Faculty of Engineering, University of Peradeniya.
 
-	Award for Outstanding Performance at the G.C.E Advanced Level Examination			            2016
-Awarded by Trinity College, Kandy  
+| Subject  | Grade |
+| ------------- | ------------- |
+| Combined Mathematics  | A  |
+| Physics  | A |
+| Chemistry  | A |
+
+District Rank - 9
+Country Rank - 143
+Z Score - 2.453
+
+### Awards and Honours
+
+*   Award for Outstanding Performance at the G.C.E Advanced Level Examination	- Awarded by Trinity College, Kandy - _2016_
+
 
 
 

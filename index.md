@@ -14,6 +14,8 @@ Scroll down to take a look at my background.
 |:---:|:-------------------------|
 |<img src="assets/img/tcklogo.png" height="100">  | **Trinity College Kandy** <br/> G.C.E Advanced Level Examination - August 2015 <br/> Physical Science Stream <br/> District Rank: 9 (Kandy)|
 
+[Read More >>](./education.html).
+
 ## Header 2
 
 > This is a blockquote following a header.

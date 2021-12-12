@@ -12,14 +12,22 @@ layout: newpage
 
 The manuscript for publishing the findings of this research is currently being prepared.
 
+<br/>
+
 <embed src="https://rajinthss.github.io/docs/fyp_ppt.pdf" type="application/pdf" width="100%" height="600px"/>
+
+<br/>
 
 ## Atlas: A Wearable Posture Monitoring  and Correcting Device
 
 *   Construction of a flexible electronic device to reduce posture related ailments among office employees.
-*   Analysis and selection of compliant materials, modelling in Solidworks, electronic circuit design, programming, Bluetooth interfacing and development of a mobile application.
+*   Analysis and selection of compliant materials, modelling in SolidWorks, electronic circuit design, programming, Bluetooth interfacing and development of a mobile application.
 *   Inter-faculty collaboration between the Faculty of Engineering and the Faculty of Allied Health Sciences, University of Peradeniya.
 
+<br/>
+
 <embed src="https://rajinthss.github.io/docs/grp_ppt.pdf" type="application/pdf" width="100%" height="600px"/>
+
+<br/>
 
 [Back to Homepage](./)

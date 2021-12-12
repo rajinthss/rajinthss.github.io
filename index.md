@@ -10,7 +10,7 @@ Scroll down to take a look at what I've been up to..
 
 # Education
 
-| | |
+| <!-- --> | <!-- --> |
 |:---:|:-------------------------|
 |<a href="https://www.pdn.ac.lk/" class="image fit" target="_blank"><img src="assets/img/uoplogo.png" width="90"></a>| <span style="font-weight:normal">**Faculty of Engineering, University of Peradeniya** <br/> BSc. Engineering (Hons) - October 2021<br/> Mechanical Engineering <br/> CGPA: 3.9/4.0</span>|
 |:---:|:-------------------------|
@@ -32,7 +32,7 @@ Scroll down to take a look at what I've been up to..
 
 # Projects
 
-| | |
+| <!-- --> | <!-- --> |
 |:---:|:-------------------------|
 |<a href="https://www.pdn.ac.lk/" class="image fit" target="_blank"><img src="assets/img/uoplogo.png" width="90"></a>| <span style="font-weight:normal">**Faculty of Engineering, University of Peradeniya** <br/> Temporary Instructor <br/> Department of Mechanical Engineering <br/> _October 2021 to Present_|
 |:---:|:-------------------------|

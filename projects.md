@@ -18,6 +18,8 @@ The manuscript for publishing the findings of this research is currently being p
 
 <br/>
 
+<br/>
+
 ## Atlas: A Wearable Posture Monitoring  and Correcting Device (Grade: A+)
 
 *   Construction of a flexible electronic device to reduce posture related ailments among office employees.

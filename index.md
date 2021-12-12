@@ -20,11 +20,7 @@ Scroll down to take a look at what I've been up to..
 
 # Work Experience
 
-| <!-- -->    | <!-- -->    |
-|-------------|-------------|
-| Foo         | Bar         |
-
-| | |
+| <!-- --> | <!-- --> |
 |:---:|:-------------------------|
 |<a href="https://www.pdn.ac.lk/" class="image fit" target="_blank"><img src="assets/img/uoplogo.png" width="90"></a>| <span style="font-weight:normal">**Faculty of Engineering, University of Peradeniya** <br/> Temporary Instructor <br/> Department of Mechanical Engineering <br/> _October 2021 to Present_|
 |:---:|:-------------------------|

@@ -36,7 +36,7 @@ Scroll down to take a look at what I've been up to..
 
 | <!-- --> |
 |:---|
-|<span style="font-weight:normal">**	Design and Comparison of Sensorless Field Oriented Control Drive for Brushless DC Motors** <br/> Final year individual project supervised by Dr. D.H.S Maithripala - A+ Grade <br/> _August 2020 to September 2021_|
+|<span style="font-weight:normal">**Design and Comparison of Sensorless Field Oriented Control Drive for Brushless DC Motors** <br/> Final year individual project supervised by Dr. D.H.S Maithripala - A+ Grade <br/> _August 2020 to September 2021_|
 |:---:|
 |<span style="font-weight:normal">**LTL Holdings (Pvt.) Ltd.** <br/> Engineering Intern <br/> Yugadanavi Combined Cycle Power Plant <br/> _November 2019 to February 2020_|
 |:---:|

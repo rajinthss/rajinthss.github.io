@@ -21,10 +21,10 @@ Completed the G.C.E Advanced Level Examination in the Physical Science stream an
 
 | <span style="display: inline-block; width:50px">Subject</span>  | <span style="display: inline-block; width:50px">Result</span>  |
 | --- | --- |
-| Combined Mathematics  | A  |
-| Physics  | A |
-| Chemistry  | A |
-| General English  | A |
+| <span style="font-weight:normal"> Combined Mathematics  | A  |
+| <span style="font-weight:normal"> Physics  | A |
+| <span style="font-weight:normal"> Chemistry  | A |
+| <span style="font-weight:normal"> General English  | A |
 
 District Rank - 9 <br/>
 Country Rank - 143  <br/>

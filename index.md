@@ -34,13 +34,13 @@ Scroll down to take a look at what I've been up to..
 
 # Projects
 
-| <!-- --> | <!-- --> |
-|:---:|:-------------------------|
-|<a href="https://www.pdn.ac.lk/" class="image fit" target="_blank"><img src="assets/img/uoplogo.png" width="90"></a>| <span style="font-weight:normal">**Faculty of Engineering, University of Peradeniya** <br/> Temporary Instructor <br/> Department of Mechanical Engineering <br/> _October 2021 to Present_|
-|:---:|:-------------------------|
-|<a href="https://ltl.lk/" class="image fit" target="_blank"><img src="assets/img/ltl_logo.jpg" width="100"></a>| <span style="font-weight:normal">**LTL Holdings (Pvt.) Ltd.** <br/> Engineering Intern <br/> Yugadanavi Combined Cycle Power Plant <br/> _November 2019 to February 2020_|
-|:---:|:-------------------------|
-|<a href="https://www.cdl.lk/" class="image fit" target="_blank"><img src="assets/img/dockyard_logo.jpg" width="100"></a> | **Colombo Dockyard PLC** <br/> Engineering Intern <br/> CDPLC Training Division <br/> _February 2019 to May 2019_|
+| <!-- --> |
+|:---:|
+|<span style="font-weight:normal">**Faculty of Engineering, University of Peradeniya** <br/> Temporary Instructor <br/> Department of Mechanical Engineering <br/> _October 2021 to Present_|
+|:---:|
+|<span style="font-weight:normal">**LTL Holdings (Pvt.) Ltd.** <br/> Engineering Intern <br/> Yugadanavi Combined Cycle Power Plant <br/> _November 2019 to February 2020_|
+|:---:|
+|**Colombo Dockyard PLC** <br/> Engineering Intern <br/> CDPLC Training Division <br/> _February 2019 to May 2019_|
 
 <div style="text-align: right"> <p class="view"><a href="https://rajinthss.github.io/projects.html"> Read More >> </a></p> </div>
 

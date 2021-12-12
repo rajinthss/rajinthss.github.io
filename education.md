@@ -30,7 +30,7 @@ District Rank - 9 <br/>
 Country Rank - 143  <br/>
 Z Score - 2.453  <br/>
 
-<a href="docs/AL_Certificate.pdf" target="_blank">View Certificate >></a> 
+<a href="docs/AL_Certificate.pdf" target="_blank">View Certificate >></a>
 
 <!-- <a href="docs/Dockyard_Certificate.pdf" target="_blank">PDF.</a> -->
 
@@ -42,14 +42,8 @@ Z Score - 2.453  <br/>
 
 <!-- https://docs.google.com/viewer?url=https://drive.google.com/file/d/1nY8tLiqciS3rqbdKoQy9h8330Bv6hLX6/view?usp=sharing -->
 
-
-
-
 ### Awards and Honours
 
 *   Award for Outstanding Performance at the G.C.E Advanced Level Examination	- Awarded by Trinity College, Kandy - _2016_
-
-
-
 
 [Back to Homepage](./)

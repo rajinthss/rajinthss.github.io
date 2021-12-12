@@ -2,36 +2,24 @@
 layout: newpage
 ---
 
-# Work Experience
+# Research Projects
 
-## LTL Holdings (Pvt) Ltd.
+## Design and Comparison of Sensorless Field Oriented Control Drive for Brushless DC Motors (Grade: A+)
 
-Completed a 10-week engineering internship at the Yugadanavi 300MW Combined Cycle Power Plant located in Kerawalapitiya. This is a 2x2x1 configured power plant with 2 Gas Turbines, 2 Heat Recovery Steam Generators and 1 Steam Turbine.  
+*   Development of speed control algorithms for brushless DC motors to determine the most optimal control configuration.
+*   Implementation and simulation of Luenberger and Sliding Mode observers based control configurations using MATLAB Simulink for comparison purposes.
+*   Demonstration of the comparatively superior performance of the Sliding Mode observer based control configuration.
 
-### Experience Gained
+The manuscript for publishing the findings of this research is currently being prepared.
 
-*   Gained thorough knowledge on the operation of a large scale thermal power plant.
-*   Assisted in troubleshooting equipment failures and developed P&IDs for maintenance requirements.
-*   Carried out heat load calculations and estimations for modification purposes.
+<embed src="https://rajinthss.github.io/docs/fyp_ppt.pdf" type="application/pdf" width="100%" height="600px"/>
 
-<a href="docs/Dockyard_Certificate.pdf" target="_blank">View Training Certificate >></a>
+## Atlas: A Wearable Posture Monitoring  and Correcting Device
 
-## Colombo Dockyard PLC
+*   Construction of a flexible electronic device to reduce posture related ailments among office employees.
+*   Analysis and selection of compliant materials, modelling in Solidworks, electronic circuit design, programming, Bluetooth interfacing and development of a mobile application.
+*   Inter-faculty collaboration between the Faculty of Engineering and the Faculty of Allied Health Sciences, University of Peradeniya.
 
-Completed a 10-week engineering internship at the Colombo Dockyard, which is the largest and oldest shipbuilding company in Sri Lanka.
-
-### Experience Gained
-
-*   Gained substantial hands on experience in machining, metal processing, fabrication and maintenance of engineering equipment.
-*   Performed non-destructive tests and inspections for quality control purposes.
-*   Understood the importance of industrial safety and proper work ethic.
-
-<a href="docs/Dockyard_Certificate.pdf" target="_blank">View Training Certificate >></a>
-
-<br/>
-
-<embed src="https://rajinthss.github.io/docs/PPT.pdf" type="application/pdf" width="100%" height="600px"/>
-
-<br/>
+<embed src="https://rajinthss.github.io/docs/grp_ppt.pdf" type="application/pdf" width="100%" height="600px"/>
 
 [Back to Homepage](./)

@@ -16,7 +16,7 @@ Scroll down to take a look at what I've been up to..
 |:---:|:-------------------------|
 |<a href="https://www.trinitycollege.lk/" class="image fit" target="_blank"><img src="assets/img/tcklogo.png" width="55"></a>| **Trinity College Kandy** <br/> G.C.E Advanced Level Examination - August 2015 <br/> Physical Science Stream <br/> District Rank: 9 (Kandy)|
 
-[Read More >>](./education.html)
+<!--[Read More >>](./education.html)-->
 
 <div style="text-align: right"> <p class="view"><a href="https://rajinthss.github.io/education.html"> Read More >> </a></p> </div>
 
@@ -30,7 +30,7 @@ Scroll down to take a look at what I've been up to..
 |:---:|:-------------------------|
 |<a href="https://www.cdl.lk/" class="image fit" target="_blank"><img src="assets/img/dockyard_logo.jpg" width="100"></a> | **Colombo Dockyard PLC** <br/> Engineering Intern <br/> CDPLC Training Division <br/> _February 2019 to May 2019_|
 
-[Read More >>](./work_experience.html)
+<div style="text-align: right"> <p class="view"><a href="https://rajinthss.github.io/work_experience.html"> Read More >> </a></p> </div>
 
 # Projects
 
@@ -42,7 +42,7 @@ Scroll down to take a look at what I've been up to..
 |:---:|:-------------------------|
 |<a href="https://www.cdl.lk/" class="image fit" target="_blank"><img src="assets/img/dockyard_logo.jpg" width="100"></a> | **Colombo Dockyard PLC** <br/> Engineering Intern <br/> CDPLC Training Division <br/> _February 2019 to May 2019_|
 
-[Read More >>](./work_experience.html)
+<div style="text-align: right"> <p class="view"><a href="https://rajinthss.github.io/projects.html"> Read More >> </a></p> </div>
 
 ## Header 2
 

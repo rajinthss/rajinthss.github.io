@@ -20,11 +20,11 @@ Completed the Bachelor of Science in Engineering (Hons) degree specializing in M
 Completed the G.C.E Advanced Level Examination in the Physical Science stream and gained entrance to the Faculty of Engineering, University of Peradeniya.
 
 | <span style="display: inline-block; width:50px">Subject</span>  | <span style="display: inline-block; width:50px">Result</span>  |
-| --- | --- |
-| <span style="font-weight:normal"> Combined Mathematics  |<span style="font-weight:normal"> A  |
-| <span style="font-weight:normal"> Physics  | <span style="font-weight:normal">A |
-| <span style="font-weight:normal"> Chemistry  | <span style="font-weight:normal">A |
-| <span style="font-weight:normal"> General English  | <span style="font-weight:normal">A |
+| :---: | :---: |
+| Combined Mathematics  | A  |
+| Physics  | A |
+| Chemistry  | A |
+| General English  | A |
 
 District Rank - 9 <br/>
 Country Rank - 143  <br/>

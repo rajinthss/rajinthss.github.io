@@ -14,7 +14,7 @@ Scroll down to take a look at what I've been up to..
 |:---:|:-------------------------|
 |<a href="https://www.pdn.ac.lk/" class="image fit" target="_blank"><img src="assets/img/uoplogo.png" width="90"></a>| <span style="font-weight:normal">**Faculty of Engineering, University of Peradeniya** <br/> BSc. Engineering (Hons) - October 2021<br/> Mechanical Engineering <br/> CGPA: 3.9/4.0</span>|
 |:---:|:-------------------------|
-|<a href="https://www.trinitycollege.lk/" class="image fit" target="_blank"><img src="assets/img/tcklogo.png" width="55"></a>| **Trinity College Kandy** <br/> G.C.E Advanced Level Examination - August 2015 <br/> Physical Science Stream <br/> District Rank: 9 (Kandy)|
+|<a href="https://www.trinitycollege.lk/" class="image fit" target="_blank"><img src="assets/img/tcklogo.png" width="50"></a>| **Trinity College Kandy** <br/> G.C.E Advanced Level Examination - August 2015 <br/> Physical Science Stream <br/> District Rank: 9 (Kandy)|
 
 <!--[Read More >>](./education.html)-->
 
@@ -35,7 +35,7 @@ Scroll down to take a look at what I've been up to..
 # Projects
 
 | <!-- --> |
-|:---:|
+|:---|
 |<span style="font-weight:normal">**Faculty of Engineering, University of Peradeniya** <br/> Temporary Instructor <br/> Department of Mechanical Engineering <br/> _October 2021 to Present_|
 |:---:|
 |<span style="font-weight:normal">**LTL Holdings (Pvt.) Ltd.** <br/> Engineering Intern <br/> Yugadanavi Combined Cycle Power Plant <br/> _November 2019 to February 2020_|

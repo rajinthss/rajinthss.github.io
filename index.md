@@ -36,11 +36,9 @@ Scroll down to take a look at what I've been up to..
 
 | <!-- --> |
 |:---|
-|<span style="font-weight:normal">**Design and Comparison of Sensorless Field Oriented Control Drive for Brushless DC Motors** <br/> Final year individual project supervised by Dr. D.H.S Maithripala - A+ Grade <br/> _August 2020 to September 2021_|
+|<span style="font-weight:normal">**Design and Comparison of Sensorless Field Oriented Control Drive for Brushless DC Motors** <br/> Final year individual project supervised by Dr. D.H.S Maithripala <br/> _October 2020 to September 2021_|
 |:---:|
-|<span style="font-weight:normal">**LTL Holdings (Pvt.) Ltd.** <br/> Engineering Intern <br/> Yugadanavi Combined Cycle Power Plant <br/> _November 2019 to February 2020_|
-|:---:|
-|**Colombo Dockyard PLC** <br/> Engineering Intern <br/> CDPLC Training Division <br/> _February 2019 to May 2019_|
+|<span style="font-weight:normal">**Atlas: A Wearable Posture Monitoring  and Correcting Device**<br/> Third year group project supervised by <a href="https://www.linkedin.com/in/lalithwick/?originalSubdomain=lk">  Dr. L.N Wickramarathna </a> <br/> _Januray 2020 to October 2020_|
 
 <div style="text-align: right"> <p class="view"><a href="https://rajinthss.github.io/projects.html"> Read More >> </a></p> </div>
 

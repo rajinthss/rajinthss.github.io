@@ -18,8 +18,8 @@ Scroll down to take a look at what I've been up to..
 
 [Read More >>](./education.html)
 
-<div style="text-align: right"> <p class="view"><a href="{{ https://rajinthss.github.io/education.md }}"> Read More >> </a></p> </div>
-                                                
+<div style="text-align: right"> <p class="view"><a href="https://rajinthss.github.io/education.html"> Read More >> </a></p> </div>
+
 # Work Experience
 
 | <!-- --> | <!-- --> |

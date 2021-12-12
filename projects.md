@@ -12,8 +12,6 @@ layout: newpage
 
 The manuscript for publishing the findings of this research is currently being prepared.
 
-<br/>
-
 <embed src="https://rajinthss.github.io/docs/fyp_ppt.pdf" type="application/pdf" width="100%" height="600px"/>
 
 <br/>
@@ -26,7 +24,7 @@ The manuscript for publishing the findings of this research is currently being p
 *   Analysis and selection of compliant materials, modelling in SolidWorks, electronic circuit design, programming, Bluetooth interfacing and development of a mobile application.
 *   Inter-faculty collaboration between the Faculty of Engineering and the Faculty of Allied Health Sciences, University of Peradeniya.
 
-<br/>
+This project was selected to be presented at the IEEE EMBS International Student Conference (ISC 2021), held in Moratuwa, Sri Lanka in February 2021.
 
 <embed src="https://rajinthss.github.io/docs/grp_ppt.pdf" type="application/pdf" width="100%" height="600px"/>
 

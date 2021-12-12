@@ -16,13 +16,9 @@ Scroll down to take a look at what I've been up to..
 |:---:|:-------------------------|
 |<a href="https://www.trinitycollege.lk/" class="image fit" target="_blank"><img src="assets/img/tcklogo.png" width="55"></a>| **Trinity College Kandy** <br/> G.C.E Advanced Level Examination - August 2015 <br/> Physical Science Stream <br/> District Rank: 9 (Kandy)|
 
-<div style="text-align: right">
-
 [Read More >>](./education.html)
 
-</div>
-
-<div style="text-align: right"> [Read More >>](./education.html) </div>
+<div style="text-align: right"> <p class="view"><a href="{{ https://rajinthss.github.io/education.html }}">View My LinkedIn Profile</a></p> </div>
 
 # Work Experience
 

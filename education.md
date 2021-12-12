@@ -20,7 +20,7 @@ Completed the Bachelor of Science in Engineering (Hons) degree specializing in M
 Completed the G.C.E Advanced Level Examination in the Physical Science stream and gained entrance to the Faculty of Engineering, University of Peradeniya.
 
 | <span style="display: inline-block; width:50px">Subject</span>  | <span style="display: inline-block; width:50px">Result</span>  |
-| :---: | :---: |
+| :--- | :---: |
 | Combined Mathematics  | A  |
 | Physics  | A |
 | Chemistry  | A |

@@ -51,6 +51,8 @@ Scroll down to take a look at what I've been up to..
 |<span style="font-weight:normal">**Design and Realization of a Wearable Posture Correcting Device**<br/> S. Rajinth, G.H.M.C.M.B. Herath, H.M. Gammulle, L.N. Wickramarathna <br/> IEEE EMBS International Student Conference (ISC 2021) <br/> Moratuwa, Sri Lanka, Feb. 2021  <br/>_Presented and Pending Publication_|
 
 <div style="text-align: right"> <p class="view"><a href="https://rajinthss.github.io/projects.html"> Read More >> </a></p> </div>
+
+<!--
 ## Header 2
 
 > This is a blockquote following a header.
@@ -166,3 +168,5 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+-->

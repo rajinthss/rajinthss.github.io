@@ -32,7 +32,7 @@ Scroll down to take a look at what I've been up to..
 
 <div style="text-align: right"> <p class="view"><a href="https://rajinthss.github.io/work_experience.html"> Read More >> </a></p> </div>
 
-# Research Projects
+# Research Projectss
 
 | <!-- --> |
 |:---|
@@ -62,7 +62,7 @@ A display of all the extra things I found myself doing over the years..
 
 
 <!--
-## Header 
+## Header
 
 > This is a blockquote following a header.
 >

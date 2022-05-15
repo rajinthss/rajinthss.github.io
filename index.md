@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-Hello there! I am a recent mechanical engineering graduate of the University of Peradeniya, Sri Lanka. Currently I am working as a temporary instructor at my alma mater with the aim of pursuing higher studies. My research interests span fluid dynamics, control systems and artificial intelligence, and more the overlap the better. I am keen on being involved in research which not only are novel, but also have significant real world impact.
+Hello there! I am a recent mechanical engineering graduate of the University of Peradeniya, Sri Lanka. Currently I am working as a temporary instructor at UoP with the aim of pursuing higher studies. My research interests span fluid dynamics, control systems and artificial intelligence, and more the overlap the better. I am keen on being involved in research which not only are novel, but also have significant real world impact.
 
 Scroll down to take a look at what I've been up to..
 
@@ -53,6 +53,11 @@ Scroll down to take a look at what I've been up to..
 |<span style="font-weight:normal">**Design and Realization of a Wearable Posture Correcting Device**<br/> S. Rajinth, G.H.M.C.M.B. Herath, H.M. Gammulle, L.N. Wickramarathna <br/> IEEE EMBS International Student Conference (ISC 2021) <br/> Moratuwa, Sri Lanka, Feb. 2021  <br/>_Presented and Published in Conference Proceedings_|
 
 <div style="text-align: right"> <p class="view"><a href="https://rajinthss.github.io/projects.html"> Read More >> </a></p> </div>
+
+# Beyond Academics
+
+A display of all the extra things I found myself doing over the years..
+
 
 <!--
 ## Header 2

@@ -36,6 +36,8 @@ Scroll down to take a look at what I've been up to..
 
 | <!-- --> |
 |:---|
+|<span style="font-weight:normal">**Performance Analysis of a Wave Energy Converter using Smoothed Particle Hydrodynamicss** <br/> Independent research project supervised by <a href="http://eng.pdn.ac.lk/ME/People/FacultyProfiles.php?id=4" target="_blank"> Prof. S.D.G.S.P. Gunawardena </a> and <a href="http://eng.pdn.ac.lk/ME/People/FacultyProfiles.php?id=10" target="_blank"> Dr. U.A. Higgoda </a><br/> _January 2022 to Present_|
+|:---:|
 |<span style="font-weight:normal">**Design and Comparison of Sensorless Field Oriented Control Drive for Brushless DC Motors** <br/> Final year individual project supervised by <a href="https://scholar.google.com/citations?user=EQjg8fsAAAAJ&hl=en" target="_blank"> Dr. D.H.S. Maithripala </a> <br/> _October 2020 to September 2021_|
 |:---:|
 |<span style="font-weight:normal">**Atlas: A Wearable Posture Monitoring  and Correcting Device**<br/> Third year group project supervised by <a href="https://www.linkedin.com/in/lalithwick/?originalSubdomain=lk" target="_blank"> Dr. L.N. Wickramarathna </a> <br/> _January 2020 to October 2020_|

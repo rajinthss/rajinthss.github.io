@@ -10,7 +10,13 @@ Completed the Bachelor of Science in Engineering (Hons) degree specializing in M
 
 ### Awards and Honours
 
-*   Nominated for The Migara Ratnatunga Trust Awards for Best Undergraduate Industrial Training - Organized by the Institution of Engineers Sri Lanka (IESL) - _2021_
+*   The Channa Lalith Maddumage Prize for the Best Performance in Mechanical Engineering - To be awarded at the General Convocation, University of Peradeniya
+
+*   The S. Mahalingam Prize for Mechanics of Machines - To be awarded at the General Convocation, University of Peradeniya
+
+*   The M. Amaratunga Prize for Strength of Materials - To be awarded at the General Convocation, University of Peradeniya
+
+*   The Migara Ratnatunga Trust Award for the Best Undergraduate Internship in Mechanical Engineering - Awarded by the Institution of Engineers Sri Lanka (IESL) - _2022_
 *   Dr. Tilak Peiris Award for the best performance in the General Programme of Engineering - Awarded by the Peradeniya Engineering Faculty Alumni Association (PEFAA) - _2017_
 *   Scholarship for Best Individual Performance at the First Examination, Faculty of Engineering - Awarded by the Peradeniya University Alumni Association of New South Wales (PUAAN) - _2017_
 *   Mahapola Merit Scholarship for exceptional performance at the G.C.E Advanced Level Examination - Awarded by the University Grants Commission of Sri Lanka - _2016_

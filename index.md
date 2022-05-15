@@ -48,7 +48,7 @@ Scroll down to take a look at what I've been up to..
 
 | <!-- --> |
 |:---|
-|<span style="font-weight:normal">**Design of a Sensorless Field Oriented Control Drive for Brushless DC Motors** <br/> S. Rajinth, C. Abyekoon, D.H.S. Maithripala <br/> 9th International Conference of Control, Dynamic Systems, and Robotics (CDSR’22) <br/> June 2, 2022 - June 4, 2022 | Niagara Falls, Canada <br/> _Accepted and Pending Publication_|
+|<span style="font-weight:normal">**Design of a Sensorless Field Oriented Control Drive for Brushless DC Motors** <br/> S. Rajinth, C. Abyekoon, D.H.S. Maithripala <br/> 9th International Conference of Control, Dynamic Systems, and Robotics (CDSR’22) <br/> June 2, 2022 - June 4, 2022, Niagara Falls, Canada <br/> _Accepted and Pending Publication_|
 |:---:|
 |<span style="font-weight:normal">**Design and Realization of a Wearable Posture Correcting Device**<br/> S. Rajinth, G.H.M.C.M.B. Herath, H.M. Gammulle, L.N. Wickramarathna <br/> IEEE EMBS International Student Conference (ISC 2021) <br/> Moratuwa, Sri Lanka, Feb. 2021  <br/>_Presented and Published in Conference Proceedings_|
 

@@ -62,7 +62,7 @@ A display of all the extra things I found myself doing over the years..
 
 
 <!--
-## Header 2
+## Header 
 
 > This is a blockquote following a header.
 >

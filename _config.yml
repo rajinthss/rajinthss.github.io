@@ -5,3 +5,4 @@ show_downloads: false
 google_analytics: UA-215543120-1
 theme: jekyll-theme-minimal
 future: true
+timezone: Asia/Colombo

@@ -6,7 +6,7 @@ layout: default
 
 Hello there! I am a recent mechanical engineering graduate of the University of Peradeniya, Sri Lanka. Currently I am working as a temporary instructor at UoP with the aim of pursuing higher studies. My research interests span fluid dynamics, control systems and artificial intelligence, and more the overlap the better. I am keen on being involved in research which not only are novel, but also have significant real world impact.
 
-Scroll down to take a look at what I've been up to...
+Scroll down to take a look at what I've been up to..
 
 # Education
 
